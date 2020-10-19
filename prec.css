@@ -1,0 +1,109 @@
+
+.pur
+{
+  background-color: #3346FF;
+  padding-top:20px;
+
+}
+
+.head1 {
+      background-color: #3346FF !important;
+    height: 110px !important;
+    color: white!important;
+    vertical-align: middle;
+}
+.caption1{
+  padding-top: 20px;
+ padding-bottom: 15px;
+font-size: 10px;
+padding-left: 20px;
+padding-right: 20px;
+}
+.img
+{
+  text-align: right;
+}
+#heading_1
+{
+  padding-top: 35px;
+  padding-bottom: 30px;
+}
+.img1
+{
+    height: 240px;
+    width: 270px;
+
+    padding-bottom: 35px;
+    padding-top:35px;
+}
+.get1
+{
+
+  color:white;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-bottom: 20px;
+
+}
+.hosp
+{
+  padding-top: 50px;
+}
+#health
+{
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#footer
+{
+  background-color: #3346FF;
+}
+.p1
+{
+font-family: 'PT Serif', serif;
+    color: black;
+    font-size: 18px;
+
+
+}
+
+.p2
+{
+    color: white;
+}
+#title
+{
+
+  background-color: #3346FF;
+
+}
+#caption
+{
+  text-align: center;
+  background-color: white;
+  padding-bottom: 20px;
+}
+.copyright
+{
+  padding-top: 20px;
+  vertical-align: middle;
+  background-color: #3346FF;
+  padding-bottom: 20px;
+font-family:'PT Serif', serif;
+}
+.empty
+{
+  background-color: #3346FF;
+}
+.seclast
+{
+  font-family:'PT Serif', serif;
+  padding-botom: 50px;
+
+}
+.link
+{
+  color: white;
+}

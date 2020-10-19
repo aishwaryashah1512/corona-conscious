@@ -1,0 +1,194 @@
+/*********************************************TAGS******************************************************************8*/
+
+body {
+
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Kalam', cursive;
+    font-weight: 300;
+    letter-spacing: 2px;
+    font-size: 45px
+}
+h4,h3 {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 1.7rem;
+}
+p {
+    color: #fff;
+}
+
+
+
+.icon {
+    color: #3346FF;
+    margin-bottom: 1rem;
+    margin-top: 2rem
+}
+.icon:hover {
+    color: blue;
+
+}
+
+.container-fluid {
+    padding: 4% 8%;
+    padding-bottom: 10%;
+}
+
+
+.navbar {
+    padding-bottom: 5rem;
+}
+.navbar-brand {
+    font-family: 'PT Serif', serif;
+    font-size: 2.3rem;
+
+}
+
+
+#title {
+    background-color: #3346FF;
+    color: #fff;
+    position: relative;
+    text-align: left;
+    position: relative;
+    top: 0
+}
+
+
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+
+@media (max-width:1028px) {
+    .title_image {
+        position: static;
+        transform: rotate(0deg);
+    }
+    #title {
+        text-align: center;
+    }
+}
+
+
+#cta {
+    background-color: #3346FF;
+    padding: 3% 15%;
+}
+#cta1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.7rem;
+    line-height: 1.5;
+    color: #fff;
+}
+button {
+    padding: 20px;
+}
+
+
+#footer {
+    padding: 2% 8%;
+    color: black;
+   font-family:'PT Serif', serif;
+    background-color: #3346FF;
+}
+#cta2 {
+    position: relative;
+
+}
+.counter {
+    font-size: 20px;
+    margin: 10px;
+    font-weight: 500
+}
+.earth {
+    position: absolute;
+    /*    padding-bottom: 50px;*/
+    bottom: 2%;
+    height: 150%;
+    width: 80%;
+    /*    top: 5%;*/
+}
+.corona {
+    padding-top: 30px;
+    padding-bottom: 0;
+    position: absolute;
+    position: absolute;
+    left: 30%;
+    width: 60%;
+    /*    transform: rotate(25deg);*/
+    top: 10px;
+}
+#Current {
+    padding-top: 5%;
+    padding-bottom: 5%
+}
+.footer-text {
+    color: black
+}
+a {
+    color: white;
+}
+a:hover {
+    color: yellow
+}
+#Covid {
+    padding: 4% 10%;
+    font-family:'PT Serif', serif;
+}
+#bg {
+    font-family: 'PT Serif', serif;
+    background-color: #3346FF;
+    padding: 2%;
+    color: #fff
+}
+.caption {
+
+    position: relative;
+    padding: 2% 10%;
+    text-align: center
+}
+.img1 {
+    border-radius: 25%;
+
+
+}
+.p1 {
+    color: white;
+    position: relative;
+    padding: 0 10%;
+    font-size: 1.3rem
+}
+.pur {
+    padding: 2% 7.5%;
+    font-family: 'PT Serif', serif;
+    background-color: #9370DB;
+}
+.i{
+    color: black
+}
+.col-lg-6{
+    text-align: center
+}
+.p2{
+    color: black
+}
+.healthdiv{
+     background-color: #3346FF !important;
+    color: #fff
+}
+#health{
+    padding: 2% 7.5%;
+}
+.card-body{
+    background-color: #E6E6FA
+}
+img{
+    border-radius: 10%
+}
+.card_h{
+ height: 800px
+}

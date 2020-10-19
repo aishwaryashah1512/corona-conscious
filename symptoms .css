@@ -1,0 +1,129 @@
+#title {
+    background-color: #3346FF;
+    color: #fff;
+    position: relative;
+    text-align: left;
+    padding: 0 10%;
+}
+.container-fluid {
+    padding-top: 2% 10%;
+}
+.navbar {
+    padding-bottom: 5rem;
+}
+.navbar-brand {
+    font-family: 'PT Serif', serif;
+    font-size: 5rem;
+
+}
+.symphead {
+   font-family: 'PT Serif', serif;
+    text-align: center;
+    font-style: 8rem;
+    color:white;
+    padding-top: 10px
+}
+.head1 {
+    font-family: 'PT Serif', serif;
+    background-color: #3346FF !important;
+    height: 50px !important;
+    color: #fff!important;
+    vertical-align: middle;
+}
+.coloured {
+    background-color: #3346FF;
+    margin-bottom: 10px;
+    padding-bottom: 15px
+}
+.third {
+   font-family:'PT Serif', serif;
+    background-color: #3346FF;
+    color: #fff;
+    vertical-align: middle;
+    padding: 2% 20%;
+}
+.sym2 {
+    background-color: #3346FF
+}
+li {
+    margin-bottom: 15px;
+    color:white;
+}
+.boxed {
+    border: 5px solid #3346FF;
+    border-spacing: 2px;
+}
+.symptoms {
+    padding: 35px;
+    padding-top: 25px;
+}
+.first {
+    padding: 30px;
+}
+.image {
+    padding: 10px
+}
+.col2 {
+    padding-top: 20px;
+    font-size: 0.5rem;
+    padding-bottom: 10px;
+}
+.col3 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.image {
+    height: 70%;
+}
+.risk2 {
+    font-size: 1rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.last {
+    padding-top: 30px;
+    background-color: #3346FF;
+}
+.col1 {
+    background-color: blue padding-right: 0px;
+}
+.riskimage {
+    padding-top: 90px;
+    vertical-align: middle;
+}
+.sym {
+    padding: 50px;
+    padding-left: 250px;
+    grid-column-gap: 10px;
+    font-size: 1.5rem;
+}
+.sec {
+    padding: 30px;
+}
+footer {
+    color: black
+}
+.empty
+{
+
+  background-color: #3346FF;
+}
+.seclast
+{
+  padding-bottom: 60px;
+  font-family:'PT Serif', serif;
+}
+.copyright
+{
+  padding-top: 20px;
+  vertical-align: middle;
+  background-color: #3346FF;
+  padding-bottom: 20px;
+font-family:'PT Serif', serif;
+}
+.link {
+    color: white;
+}
+.link:hover {
+    color: yellow
+}

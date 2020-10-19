@@ -1,0 +1,124 @@
+.row-header{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 300px;
+}
+
+.jumbotron{
+	text-align: center;
+	padding: 70px 30px 70px 30px;
+	margin: 0px auto;
+	background-color: #3346FF;								/*		#9575CD;*/
+	color: floralwhite;
+	font-family:'PT Serif', serif;
+
+}
+footer
+{
+	color:white;
+	text-align: center;
+}
+ h1
+ {
+	 text-align: center;
+ }
+ .copyright
+ {
+   padding-top: 20px;
+   vertical-align: middle;
+   background-color: #3346FF;
+   padding-bottom: 20px;
+font-family:'PT Serif', serif;
+ }
+ .hosp
+ {
+	 padding-top: 40px;
+ }
+ .empty
+ {
+   background-color: #3346FF;
+ }
+ .seclast
+ {
+	 padding-botom: 50px;
+font-family:'PT Serif', serif;
+ }
+.navbar-dark{
+	background-color: #3346FF;
+	width:100%;
+	margin-left: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.carousel {
+    background-color: #3346FF;
+		font-family:'PT Serif', serif;			/*#512DA8;*/
+}
+#third
+{
+	font-family:'PT Serif', serif;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 300px;
+    width: :300px;
+}
+.navbar-brand
+{
+	font-family:'PT Serif', serif;
+	font-size: 1.8rem;
+}
+.carousel-caption{
+	padding-left: 400px;
+	padding-bottom: 50px;
+}
+
+
+
+.radio-toolbar{
+	color: #fff;
+}
+
+
+
+#carouselButton{
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+	z-index: 1;
+}
+
+
+
+.close{
+	color: floralwhite;
+}
+footer{
+	background-color: #3346FF;
+	text-align: center;
+
+}
